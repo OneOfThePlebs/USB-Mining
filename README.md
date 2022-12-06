@@ -1,6 +1,7 @@
 ---
   This page is supposed to describe how-to install the mining software CGMiner
   on a raspiblitz bitcoin full node.
+---
 
 # ⛏ CGMiner on Raspiblitz Full Node
 

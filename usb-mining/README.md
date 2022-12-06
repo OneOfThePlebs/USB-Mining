@@ -1,9 +1,5 @@
----
-description: >-
   Die folgenden Seiten sollen helfen schnell und unkompliziert USB-Miner
   lauffähig zu machen.
-coverY: 0
----
 
 # ⛏ USB-Mining
 

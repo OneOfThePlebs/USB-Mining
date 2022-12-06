@@ -1,4 +1,4 @@
-### Ein erster Einstieg in USB-MIning.
+### Ein erster Einstieg in USB-Mining.
 
 # ☀ Single USB-Miner
 

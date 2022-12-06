@@ -1,10 +1,8 @@
----
-description: Der Spaß-Teil!!
----
+Der Spaß-Teil!!
 
 # 🌩 Übertakten
 
-<mark style="color:red;">**ACHTUNG**</mark>: Übertakten sorgt für eine höhere Leistungsaufnahme. Es ist dringend anzuraten sich **vorher** über ein geeignetes Kühlkonzept Gedanken zu machen, da man Gefahr läuft den Chip **dauerhaft zu schädigen**.
+**ACHTUNG**: Übertakten sorgt für eine höhere Leistungsaufnahme. Es ist dringend anzuraten sich **vorher** über ein geeignetes Kühlkonzept Gedanken zu machen, da man Gefahr läuft den Chip **dauerhaft zu schädigen**.
 
 {% hint style="warning" %}
 Eine kleine Anregung für ausreichende Kühlung:

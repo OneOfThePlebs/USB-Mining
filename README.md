@@ -1,10 +1,6 @@
 ---
-description: >-
   This page is supposed to describe how-to install the mining software CGMiner
   on a raspiblitz bitcoin full node.
-cover: https://shitcoindump.com/img/ShitcoinDumpLogo.gif
-coverY: -4.624277456647398
----
 
 # ⛏ CGMiner on Raspiblitz Full Node
 

@@ -1,7 +1,7 @@
 # Table of contents
 
-[⛏ CGMiner on Raspiblitz Full Node](README.md)
-
+[⛏ CGMiner on Raspiblitz Full Node](CGMiner on Raspiblitz Full Node.md)
+How to install cgminer on Raspiblitz... 
 
 [⛏ USB-Mining](usb-mining/README.md)
   * [☀ Single USB-Miner](usb-mining/single-usb-miner.md)

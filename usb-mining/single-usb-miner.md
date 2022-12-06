@@ -1,4 +1,4 @@
-description: Ein erster Einstieg in USB-MIning.
+Ein erster Einstieg in USB-MIning.
 
 # ☀ Single USB-Miner
 

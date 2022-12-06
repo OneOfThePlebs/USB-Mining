@@ -13,11 +13,11 @@ Im Kapitel [uebertakten.md](uebertakten.md "mention") widmen wir uns der Leistun
 
 Zum Einsatz kommen für diese Demo folgende Komponenten (Hard- und Software):
 
-* 1x Raspberry Pi 4GB mit Raspiblitz 1.8.0 ([https://github.com/rootzoll/raspiblitz](https://github.com/rootzoll/raspiblitz))
-* 1x Gekkoscience Compaq F USB-Miner
-* verschiedene USB-Hubs
-* cgminer version 4.12 ([https://github.com/kanoi/cgminer](https://github.com/kanoi/cgminer))
-* 1x Digital Multimeter
-* 1x USB Tester
+- 1x Raspberry Pi 4GB mit Raspiblitz 1.8.0 ([https://github.com/rootzoll/raspiblitz](https://github.com/rootzoll/raspiblitz))
+- 1x Gekkoscience Compaq F USB-Miner
+- verschiedene USB-Hubs
+- cgminer version 4.12 ([https://github.com/kanoi/cgminer](https://github.com/kanoi/cgminer))
+- 1x Digital Multimeter
+- 1x USB Tester
 
 Diese Anleitung dient der Hilfestellung für Neulinge im USB-Mining und richtet sich an diese. Alle Informationen sind ohne Gewähr, **Ausprobieren erfolgt auf eigenes Risiko!**

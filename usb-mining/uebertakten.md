@@ -4,15 +4,9 @@ Der Spaß-Teil!!
 
 **ACHTUNG**: Übertakten sorgt für eine höhere Leistungsaufnahme. Es ist dringend anzuraten sich **vorher** über ein geeignetes Kühlkonzept Gedanken zu machen, da man Gefahr läuft den Chip **dauerhaft zu schädigen**.
 
-{% hint style="warning" %}
-Eine kleine Anregung für ausreichende Kühlung:
-
-![](../.gitbook/assets/Kühlkörper.jpg)
-
-Hierzu wurde ein CPU-Kühler mit Heatpipes anstatt des Standard-Kühlkörpers verbaut. Unbedingt Wärmeleitpaste verwenden für eine optimale Wärmeableitung.
-{% endhint %}
-
-
+> Eine kleine Anregung für ausreichende Kühlung:
+> <figure><img src="../.gitbook/assets/Kühlkörper.jpg" alt="Kühlkörper"><figcaption>Eine kleine Anregung für ausreichende Kühlung.</figcaption></figure>
+> Hierzu wurde ein CPU-Kühler mit Heatpipes anstatt des Standard-Kühlkörpers verbaut. Unbedingt Wärmeleitpaste verwenden für eine optimale Wärmeableitung.
 
 Die Standard-Spannung liegt bei 1.45V. Aus der Beschreibung des Gekkoscience Compaq F USB-Miners lassen sich des Weiteren folgende Werte als Anhaltspunkt ablesen:
 
@@ -21,16 +15,14 @@ Die Standard-Spannung liegt bei 1.45V. Aus der Beschreibung des Gekkoscience Com
 | USB Hub Power (Ampere) | 2.00 | 2.75 | 3.00 | 3.30 | 4.00 | 5.00 |
 | Hash Speed (GH/s)      | 200  | 300  | 366  | 400  | 460  | 550  |
 
-Anmerkung: Je höher die Hashrate desto größer ist die Abweichung vom Durchschnitt, bedingt durch Herstellungstoleranzen des ASIC.
+> Anmerkung: Je höher die Hashrate desto größer ist die Abweichung vom Durchschnitt, bedingt durch Herstellungstoleranzen des ASIC.
 
 Spannung kann am Potentiometer eingestellt und wie folgt gemessen werden:
+<figure><img src="../.gitbook/assets/Potentiometer.JPG" alt="Potentiometer"><figcaption>Bild vom Potentiometer</figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Potentiometer.JPG" alt=""><figcaption><p>Bild vom Potentiometer</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Spannungsabgriff.JPG" alt=""><figcaption><p>Bild vom Spannungsabgriff</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Spannungsabgriff.JPG" alt="Spannungsabgriff"><figcaption>Bild vom Spannungsabgriff</figcaption></figure>
 
 Bild vom Voltmeter:
-
 
 
 Zum eigentlichen übertakten kann nun die Core-Spannung von standardmäßig 1.45V durch drehen am Potentiometer erhöht werde. Grundsätzlich sollte die Erhöhung in winzigen Schritten erfolgen mit anschließender Prüfung ob die Kühlung noch ausreicht und ob das Mining noch stabil läuft.
@@ -39,13 +31,6 @@ Die Stabilität kann einfach mittels cgminer und dem bereits genannten auto-tuni
 
 Die Kühlung zu überprüfen ist hier schon eine größere Herausforderung. Dies kann idealerweise durch eine Wärmebildkamera überprüft werden:
 
-<div>
+<figure><img src="../.gitbook/assets/IMG-1181.JPG" alt=""><figcaption>Wärmeentwicklung mit Standard-USB-Hub: ca. 8W</figcaption></figure>
 
-<figure><img src="../.gitbook/assets/IMG-1181.JPG" alt=""><figcaption><p>Wärmeentwicklung mit Standard-USB-Hub: ca. 8W</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/IMG-1183.JPG" alt=""><figcaption><p>Wärmeentwicklung mit Standard-USB-Hub: ca. 8W</p></figcaption></figure>
-
-</div>
-
+<figure><img src="../.gitbook/assets/IMG-1183.JPG" alt=""><figcaption>Wärmeentwicklung mit Standard-USB-Hub: ca. 8W</figcaption></figure>

@@ -11,3 +11,11 @@ How to install cgminer on Raspiblitz...
   * [☀ cgminer starten](usb-mining/CGMiner-starten.md)
   * [🌩 Übertakten](usb-mining/uebertakten.md)
   * [❄ Troubleshooting](usb-mining/troubleshooting.md)
+
+Ich werde versuchen den Inhalt zu erweitern und zu verbessern.
+
+---
+<figure>
+    <img src="../.assets/V4V.png" alt="Donate" width="200" />
+    <figcaption>value 4 value</figcaption>
+</figure>

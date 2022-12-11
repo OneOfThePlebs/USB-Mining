@@ -4,13 +4,13 @@
 
 Im Grunde ist es keine hohe Kunst einen USB-Miner lauffähig zu machen, jedoch gibt es kleinere Fallstricke die zu Fehlinterpretationen führen können.
 
-Das erste Kapitel [single-usb-miner.md](single-usb-miner.md "mention") beschäftigt sich mit der Erstinbetriebnahme eines USB-Miners mit bereits vorhandenem USB-Hub und möglichen Tuningmaßnahmen.
+Das erste Kapitel [single-usb-miner.md](usb-mining/single-usb-miner.md "mention") beschäftigt sich mit der Erstinbetriebnahme eines USB-Miners mit bereits vorhandenem USB-Hub und möglichen Tuningmaßnahmen.
 
-Das zweite Kapitel [multiple-usb-miner.md](multiple-usb-miner.md "mention") hebt bereits die schwächen der meisten USB-Hubs hervor und zeigt wie hier Abhilfe geschaffen werden kann.
+Das zweite Kapitel [multiple-usb-miner.md](usb-mining/multiple-usb-miner.md "mention") hebt bereits die schwächen der meisten USB-Hubs hervor und zeigt wie hier Abhilfe geschaffen werden kann.
 
-Im Kapitel [uebertakten.md](uebertakten.md "mention") widmen wir uns der Leistungssteigerung des USB-Miners.
+Im Kapitel [uebertakten.md](usb-mining/uebertakten.md "mention") widmen wir uns der Leistungssteigerung des USB-Miners.
 
-Das Kapitel [CGMiner-starten.md](CGMiner-starten.md "mention") soll bei der Inbetriebnahme der Software helfen.
+Das Kapitel [CGMiner-starten.md](usb-mining/CGMiner-starten.md "mention") soll bei der Inbetriebnahme der Software helfen.
 
 Zum Einsatz kommen für diese Demo folgende Komponenten (Hard- und Software):
 

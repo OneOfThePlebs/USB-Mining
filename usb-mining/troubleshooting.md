@@ -1,8 +1,6 @@
----
-description: Dingen denen ich begegnet bin...
----
-
 # ❄ Troubleshooting
+
+## Dingen denen ich begegnet bin...
 
 90% aller Probleme resultieren aus einem zu schwachen USB Hub. Der USB-Miner Gekkoscience Compac F (und vermutlich auch alle anderen USB-Miner) will Strom, und zwar nicht zu knapp.
 

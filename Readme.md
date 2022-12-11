@@ -6,7 +6,8 @@ How to install cgminer on Raspiblitz...
 
 ## ⛏ [USB-Mining](usb-mining/README.md)
   
-  * [☀ Single USB-Miner](usb-mining/single-usb-miner.md)
-  * [☀ Multiple USB-Miner](usb-mining/multiple-usb-miner.md)
-  * [🌩 Übertakten](usb-mining/uebertakten.md)
-  * [❄ Troubleshooting](usb-mining/troubleshooting.md)
+  * [☀ Single USB-Miner](single-usb-miner.md)
+  * [☀ Multiple USB-Miner](multiple-usb-miner.md)
+  * [☀ cgminer starten](CGMiner-starten.md)
+  * [🌩 Übertakten](uebertakten.md)
+  * [❄ Troubleshooting](troubleshooting.md)

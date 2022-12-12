@@ -1,21 +1,18 @@
+# ⛏ CGMiner auf Raspiblitz Full Node installieren
 
-This page is supposed to describe how-to install the mining software CGMiner on a raspiblitz bitcoin full node.
+Diese Seite beschreibt wie man mit wenig Aufwand die Mining-Software cgminer auf einer Raspiblitz Bitcoin und Lighntning Full Node installiert.
 
-# ⛏ CGMiner on Raspiblitz Full Node
+## Installieren von Raspiblitz auf einem Raspberry Pi (4GB oder 8GB empfohlen)
 
-The setup consists of a Raspberry Pi 4, a 1 TB SSD, a Gekkoscience Compac F and other small accessoiries.
-
-## Installing Raspiblitz on Raspberry Pi
-
-The following hardware and software have been chosen to setup raspiblitz:
+Die folgende Hardware und Software wurden verwendet:
 
 * Raspberry Pi 4 4GB
 * 1 TB Samsung T5 SSD
 * Customized raspberry pi 4 aloy housing for better heat dissipation.
 * Raspiblitz 1.8.0 ([https://github.com/rootzoll/raspiblitz](https://github.com/rootzoll/raspiblitz))
 
-To install raspiblitz on the raspberry pi just follow the instructions on github, in case of problems get in contact with other users in the raspiblitz telegram group: [https://t.me/raspiblitz\_DE.](https://t.me/raspiblitz\_DE)
+Für die Installation gibt es bereits eine ausführliche Anleitung auf Github ([https://github.com/rootzoll/raspiblitz](https://github.com/rootzoll/raspiblitz)). Im Falle von Problemen hilft hier auch die Raspiblitz Telegram Gruppe: [https://t.me/raspiblitz\_DE.](https://t.me/raspiblitz\_DE)
 
-## Installing cgminer software on raspiblitz full node
+## Installieren von cgminer software auf der Raspiblitz Full Node
 
-### Hardware preparation
+Inhalte folgen....

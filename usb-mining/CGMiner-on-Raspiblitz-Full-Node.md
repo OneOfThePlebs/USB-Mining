@@ -1,10 +1,12 @@
-# ⛏ CGMiner auf Raspiblitz Full Node installieren
+# ⚙ CGMiner auf Raspiblitz Full Node installieren
 
 Diese Seite beschreibt wie man mit wenig Aufwand die Mining-Software cgminer auf einer Raspiblitz Bitcoin und Lighntning Full Node installiert.
 
 ## Installieren von Raspiblitz auf einem Raspberry Pi (4GB oder 8GB empfohlen)
 
 Die folgende Hardware und Software wurden verwendet:
+
+[CGMiner-on-Raspiblitz-Full-Node.md](CGMiner-on-Raspiblitz-Full-Node.md "mention")
 
 * Raspberry Pi 4 4GB
 * 1 TB Samsung T5 SSD

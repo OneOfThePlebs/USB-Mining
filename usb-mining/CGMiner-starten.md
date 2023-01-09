@@ -1,8 +1,8 @@
-# ⛏ Konfigurationstipps
+# Konfigurationstipps
 
 Diese Seite beschreibt mögliche Konfigurationen von CGMIner auf einem Raspbery Pi
 
-## CGMiner in debug mode 
+## CGMiner in debug mode
 
 Um möglichst detaillierte Informationen vor allem beim erstmaligen Setup zu bekommen, bietet es sich an CGMiner wie folgt zu starten:
 
